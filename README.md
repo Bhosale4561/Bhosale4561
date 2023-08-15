@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhosale Nandkumar
+- 👋 Hi, I’m Bhosale Nandkumar
 - 👀 I’m interested in Data Field
 - 🌱 I’m currently learning Python Libraries(Pandas, Numpy)
 - 📫 How to reach me - http://www.linkedin.com/in/bhosale-nandkumar-7661a7207
