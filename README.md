@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhosale Nandkumar
-- 👀 I’m interested in Data Field
-- 🌱 I’m currently learning Python Libraries(Pandas, Numpy)
+- 👀 I’m interested in Cloud and Data Field
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me - http://www.linkedin.com/in/bhosale-nandkumar-7661a7207
 
 <!---
